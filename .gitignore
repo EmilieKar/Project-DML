@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 archive.zip
 *.jpg
+bilder/.DS_Store
+.DS_Store
+.DS_Store
